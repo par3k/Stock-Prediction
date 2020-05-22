@@ -22,3 +22,11 @@ Set the Date range, in this study I will set 5 years 2015~2020.
 
 and then, Click the Download button.
 ![y3](https://github.com/par3k/StockPrediction/blob/master/img/yahoo_3.png)
+
+
+## Train the Dataset
+
+![t1](https://github.com/par3k/StockPrediction/blob/master/img/train.png)
+
+## Result
+![r1](https://github.com/par3k/StockPrediction/blob/master/img/result.png)
