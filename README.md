@@ -1,5 +1,7 @@
 # StockPrediction
 
+Based on Google Colab : https://colab.research.google.com/notebooks
+
 Dependencies:
 - Python
 - numpy
