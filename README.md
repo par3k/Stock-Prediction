@@ -26,7 +26,7 @@ and then, Click the Download button.
 
 ## Train the Dataset
 
-![t1](https://github.com/par3k/StockPrediction/blob/master/img/train.png)
+![t1](https://github.com/par3k/StockPrediction/blob/master/img/train2.png)
 
 ## Result
 ![r1](https://github.com/par3k/StockPrediction/blob/master/img/result.png)
