@@ -11,8 +11,8 @@ Based on Google Colab : https://colab.research.google.com/notebooks
 
 
 ## How to get the Dataset
-</br>
 Fist of all, we will use "Yahoo! Finance" : https://finance.yahoo.com
+
 
 Search for the company you want to predict and click the "Historical Data".
 ![y1](https://github.com/par3k/StockPrediction/blob/master/img/yahoo_1.png)
