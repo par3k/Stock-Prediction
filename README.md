@@ -8,9 +8,11 @@ Based on Google Colab : https://colab.research.google.com/notebooks
 - Keras
 - pandas
 - matplotlib
-
+</br>
+</br>
 ## How to get the Dataset
-
+</br>
+</br>
 Fist of all, we will use "Yahoo! Finance" : https://finance.yahoo.com
 </br>
 Search for the company you want to predict and click the "Historical Data".
