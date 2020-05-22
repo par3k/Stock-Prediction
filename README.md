@@ -12,4 +12,5 @@ Dependencies:
 Dataset
 - Yahoo Finance: https://finance.yahoo.com
 
-https://github.com/par3k/StockPrediction/blob/master/img/yahoo_1.png
+![y1](https://github.com/par3k/StockPrediction/blob/master/img/yahoo_1.png)
+
